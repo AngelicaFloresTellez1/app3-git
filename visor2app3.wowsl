@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>14</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>visor2app3</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>dribbles,cube</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/utter/</ImageTemplate>
+            <ImageTemplateName>Utter</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#FFFFFF</TemplateColor>
+            <TemplateFont>Montserrat</TemplateFont>
+            <TemplateName>utter</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>F:/DAM/2DO PARCIAL/aplicaciones/app3/imagenes/contaminacion1.jpg</url>
+                <title>contaminacion1</title>
+                <filesize>18943</filesize>
+            </Image>
+            <Image>
+                <url>F:/DAM/2DO PARCIAL/aplicaciones/app3/imagenes/contaminacion2.jpg</url>
+                <title>contaminacion2</title>
+                <filesize>76051</filesize>
+            </Image>
+            <Image>
+                <url>F:/DAM/2DO PARCIAL/aplicaciones/app3/imagenes/contaminacion3.jpg</url>
+                <title>contaminacion3</title>
+                <filesize>91044</filesize>
+            </Image>
+            <Image>
+                <url>F:/DAM/2DO PARCIAL/aplicaciones/app3/imagenes/contaminacion4.png</url>
+                <title>contaminacion4</title>
+                <filesize>1122815</filesize>
+            </Image>
+            <Image>
+                <url>F:/DAM/2DO PARCIAL/aplicaciones/app3/imagenes/contaminacion5.jpg</url>
+                <title>contaminacion5</title>
+                <filesize>244702</filesize>
+            </Image>
+            <Image>
+                <url>F:/DAM/2DO PARCIAL/aplicaciones/app3/imagenes/contaminacion6.jpg</url>
+                <title>contaminacion6</title>
+                <filesize>46661</filesize>
+            </Image>
+            <Image>
+                <url>F:/DAM/2DO PARCIAL/aplicaciones/app3/imagenes/contaminacion7.jpg</url>
+                <title>contaminacion7</title>
+                <filesize>83317</filesize>
+            </Image>
+            <Image>
+                <url>F:/DAM/2DO PARCIAL/aplicaciones/app3/imagenes/contaminacion8.jpg</url>
+                <title>contaminacion8</title>
+                <filesize>108883</filesize>
+            </Image>
+            <Image>
+                <url>F:/DAM/2DO PARCIAL/aplicaciones/app3/imagenes/contaminacion9.jpg</url>
+                <title>contaminacion9</title>
+                <filesize>52179</filesize>
+            </Image>
+            <Image>
+                <url>F:/DAM/2DO PARCIAL/aplicaciones/app3/imagenes/contaminacion10.jpg</url>
+                <title>contaminacion10</title>
+                <filesize>49989</filesize>
+            </Image>
+            <Image>
+                <url>F:/DAM/2DO PARCIAL/aplicaciones/app3/imagenes/contaminacion11.jpg</url>
+                <title>contaminacion11</title>
+                <filesize>296349</filesize>
+            </Image>
+            <Image>
+                <url>F:/DAM/2DO PARCIAL/aplicaciones/app3/imagenes/contaminacion12.jpg</url>
+                <title>contaminacion12</title>
+                <filesize>7651</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
